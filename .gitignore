@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore build directories
+/build/
+
+# Ignore log files
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+plot_data.dat
+plots/
+
